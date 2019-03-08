@@ -28,5 +28,5 @@ func main() {
 		os.Exit(1)
 	}
 	log.Printf("No Success: %+v", response)
-	os.Exit(2)
+	os.Exit(1)
 }
